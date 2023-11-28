@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping
     public String getHello(){
-        return "Hello world";
+        return "Hello world from stagging";
     }
 }
